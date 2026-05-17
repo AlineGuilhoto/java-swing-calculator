@@ -110,12 +110,12 @@ git clone https://github.com/AlineGuilhoto/java-swing-calculator.git
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/calculator-java-swing1.png" width="250"/>
-  <img src="images/calculator-java-swing2.png" width="250"/>
+  <img src="images/calculator-java-swing1.PNG" width="250"/>
+  <img src="images/calculator-java-swing2.PNG" width="250"/>
 </p>
 
 <p align="center">
-  <img src="images/calculator-java-swing3.png" width="250"/>
-  <img src="images/calculator-java-swing4.png" width="250"/>
+  <img src="images/calculator-java-swing3.PNG" width="250"/>
+  <img src="images/calculator-java-swing4.PNG" width="250"/>
 </p>
 
